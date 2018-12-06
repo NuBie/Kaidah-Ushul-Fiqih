@@ -6,6 +6,10 @@ Pembahasan ini merujuk kepada kitab “Syarah Mandzumah Ushul Fiqih“, yang dit
 </p>
 
 <p align="center">
+<a href="https://github.com/NuBie/Kaidah-Ushul-Fiqih/tree/master/Daftar_Kaidah">Daftar-Kaidah</a>
+</p>
+
+<p align="center">
 <img src="/Pictures/logo.jpeg" alt="bbg-alilmu-logo"/>
 </p>
 
