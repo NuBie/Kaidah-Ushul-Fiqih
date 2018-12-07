@@ -1,6 +1,6 @@
 # Kaidah yang ke 7
 
-#### Perkara yang diharamkan ada dua keadaan:
+### Perkara yang diharamkan ada dua keadaan:
 
 <b>1. Diharamkan dzatnya seperti judi, arak, riba dan sebagainya.</b>
 
