@@ -2,6 +2,7 @@
 
 ### Perkara yang diharamkan ada dua keadaan:
 
+<p align="justify">
 <b>1. Diharamkan dzatnya seperti judi, arak, riba dan sebagainya.</b>
 
 <b>2. Diharamkan karena menjerumuskan kepada yang haram. seperti melihat wanita yang bukan mahram diharamkan karena mendekati Zina. memakai sutera diharamkan karena mendekati tasyabbuh dengan wanita. dan sebagainya.</b>
@@ -10,6 +11,7 @@
 
 *   Sedangkan perkara yang diharamkan karena menjerumuskan, DIBOLEHKAN DISAAT ADA HAJAT.
 contohnya memakai sutera bagi lelaki boleh untuk keperluan pengobatan gatal, melihat wanita boleh untuk tujuan menikahinya, dan sebagainya.
+</p>
 
 Wallahu a’lam 
 
