@@ -1,9 +1,7 @@
 # Kaidah yang ke 8
 
-<p align="justify">
-<b>Larangan apabila berhubungan dengan dzat ibadah atau syaratnya maka ibadah tersebut batal tidak sah.
-Tetapi bila tidak berhubungan dengannya maka sah namun berdosa.</b>
-</p>
+<b>Larangan apabila berhubungan dengan dzat ibadah atau syaratnya maka ibadah tersebut batal tidak sah.</b><br>
+<b>Tetapi bila tidak berhubungan dengannya maka sah namun berdosa.</b>
 
 <p align="justify">
 Semua ibadah yang dilarang maka batil tidak sah.
