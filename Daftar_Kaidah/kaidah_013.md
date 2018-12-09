@@ -5,33 +5,33 @@
 <p align="justify">
 Perbuatan Nabi shallallahu ‘alaihi wasallam tidak semuanya sama hukumnya. Namun terbagi menjadi 6 macam:
 
-1. <b>Perbuatan Nabi shallallahu ‘alaihi wasallam yang bersifat tabiat manusiawi.</b>
+<b>1. Perbuatan Nabi shallallahu ‘alaihi wasallam yang bersifat tabiat manusiawi.</b>
 seperti selera makan, gaya berjalan dsb.
 Maka kita tidak diwajibkan untuk mengikutinya.
 Kecuali bila disana ada nilai ibadahnya seperti tidur di atas wudlu, tidur di atas rusuk yang kanan dll, maka ini disunnahkan.
 
-2. <b>Perbuatan Nabi shallallahu ‘alaihi wasallam yang berasal adat istiadat.</b>
+<b>2. Perbuatan Nabi shallallahu ‘alaihi wasallam yang berasal adat istiadat.</b>
 Contohnya bentuk pakaian dsb. Maka yang sunnah adalah mengikuti adat istiadat setempat selama tidak menyalahi syariat.
 
-3. <b>Perbuatan Nabi shallallahu ‘alaihi wasallam dalam rangka mempraktekan perintah Allah.</b>
+<b>3. Perbuatan Nabi shallallahu ‘alaihi wasallam dalam rangka mempraktekan perintah Allah.</b>
 Hukumnya sesuai perintah tersebut. jika perintah tersebut wajib, maka perbuatan Nabi shallallahu ‘alaihi wasallam itu pun wajib.
 Contoh Nabishallallahu ‘alaihi wasallam  mengusap seluruh kepala ketika berwudlu, mempraktekan perintah Allah untuk mengusap kepala.
 
-4. <b>Perintah Nabi shallallahu ‘alaihi wasallam yang bersifat ta’abbudiy.</b>
+<b>4. Perintah Nabi shallallahu ‘alaihi wasallam yang bersifat ta’abbudiy.</b>
 Seperti Nabi shallallahu ‘alaihi wasallam berpuasa tiga hari setiap bulan, Nabi shallallahu ‘alaihi wasallam sholat ba’da ‘ashar dua rokaat (*) dan lain sebagainya.
 
-5. <b>Perbuatan Nabi shallallahu ‘alaihi wasallam yang khusus untuk beliau tanpa umatnya.</b>
+<b>5. Perbuatan Nabi shallallahu ‘alaihi wasallam yang khusus untuk beliau tanpa umatnya.</b>
 Contohnya menikah lebih dari empat istri dan sebagainya.
 
-6. <b>Perbuatan Nabi shallallahu ‘alaihi wasallam yang masih diragukan apakah termasuk ibadah atau adat,</b> seperti Nabi shallallahu ‘alaihi wasallam memanjangkan rambut sebahu.
+<b>6. Perbuatan Nabi shallallahu ‘alaihi wasallam yang masih diragukan apakah termasuk ibadah atau adat,</b> seperti Nabi shallallahu ‘alaihi wasallam memanjangkan rambut sebahu.
 Para ulama berbeda pendapat apakah itu sunnah atau tidak. jumhur berpendapat tidak sunnah.
 </p>
 
 <p align="justify">
-Dari kitab “Syarah Mandzumah Ushul Fiqih“, yang ditulis oleh Syaikh Muhammad bin Shalih Al’Utsaimin, رحمه الله تعالى.
-.
-NB :
-*   Terkait dengan contoh yang diberikan di poin 4 dalam kaidah ke 13 (yaitu sholat sunnah 2 roka’at setelah/ba’da ‘Ashar), menurut penjelasan para Ulama, sholat 2 roka’at setelah ‘Ashar ini adalah dalam rangka QODHO sholat sunnah rawatib Zhuhur yang tertinggal, sebagaimana Hadits dari Ummu Salamah rodhiallahu ‘anha, sesungguhnya Nabi shollallahu ‘alaihi wa sallam shalat dua raka’at setelah Ashar, lalu dia ditanya tentang hal tersebut, maka beliau bersabda,
+<b>Dari kitab “Syarah Mandzumah Ushul Fiqih“, yang ditulis oleh Syaikh Muhammad bin Shalih Al’Utsaimin, رحمه الله تعالى.</b><br>
+
+<b>NB :</b><br>
+Terkait dengan contoh yang diberikan di poin 4 dalam kaidah ke 13 (yaitu sholat sunnah 2 roka’at setelah/ba’da ‘Ashar), menurut penjelasan para Ulama, sholat 2 roka’at setelah ‘Ashar ini adalah dalam rangka QODHO sholat sunnah rawatib Zhuhur yang tertinggal, sebagaimana Hadits dari Ummu Salamah rodhiallahu ‘anha, sesungguhnya Nabi shollallahu ‘alaihi wa sallam shalat dua raka’at setelah Ashar, lalu dia ditanya tentang hal tersebut, maka beliau bersabda,
 
 يَا بِنْتَ أَبِى أُمَيَّةَ ، سَأَلْتِ عَنِ الرَّكْعَتَيْنِ بَعْدَ الْعَصْرِ ، وَإِنَّهُ أَتَانِي نَاسٌ مِنْ عَبْدِ الْقَيْسِ فَشَغَلُونِي عَنِ الرَّكْعَتَيْنِ اللَّتَيْنِ بَعْدَ الظُّهْرِ ، فَهُمَا هَاتَانِ. رواه البخاري (1233) ومسلم (834)
 
