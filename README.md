@@ -1,8 +1,8 @@
 # Kaidah-Ushul-Fiqih
 
 <p align="center">
-Pemateri Utama : Ustadz Abu Yahya Badrusalam Lc,  حفظه الله تعالى
-Pembahasan ini merujuk kepada kitab “Syarah Mandzumah Ushul Fiqih“, yang ditulis oleh Syaikh Muhammad bin Shalih Al’Utsaimin, رحمه الله تعالى
+Pemateri Utama : <b>Ustadz Abu Yahya Badrusalam Lc,  حفظه الله تعالى.</b>
+Pembahasan ini merujuk kepada kitab <b>“Syarah Mandzumah Ushul Fiqih“,</b> yang ditulis oleh <b>Syaikh Muhammad bin Shalih Al’Utsaimin, رحمه الله تعالى.</b>
 </p>
 
 <p align="center">
